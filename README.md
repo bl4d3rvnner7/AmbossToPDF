@@ -101,6 +101,3 @@ This project is for educational purposes only. Please:
 - Don't use this for mass scraping
 - Consider supporting Amboss by subscribing if you find their content valuable
 
-## License
-
-This project is unlicensed. Use at your own risk.
